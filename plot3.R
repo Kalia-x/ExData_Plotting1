@@ -25,7 +25,7 @@ if(!exists("bigTable")) {
 # create the data frame of date subsets, unless it already exists
 if(!exists("dateSubset")) {
     
-    #subset data from only dates within the range 2007-02-01 and 2007-02-02
+    # subset data from only dates within the range 2007-02-01 and 2007-02-02
     dateSubset <- bigTable[bigTable$Date == "1/2/2007" | bigTable$Date == "2/2/2007", ]
     
     # convert the date/time columns into date/time class objects
