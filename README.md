@@ -2,9 +2,9 @@
 
 ####Assignment Answers:
 
-The four R scripts named plot1/2/3/4 can be run in R, to create the corresponding output files, the pngs named plot1/2/3/4.
+The four R scripts named plot1/2/3/4(.R) can be run in R, to create their corresponding output files, the png files named plot1/2/3/4(.png).
 
-Below is a copy of the original README file, where information on both the data set and the course assignment is detailed.
+Below is a copy of the original README file, from the original repo, where information on both the data set and the course assignment is detailed.
 
 ####The Original README File:
 
