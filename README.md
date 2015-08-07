@@ -1,3 +1,13 @@
+## "Exploratory Data Analysis" Course Project 1 Submission
+
+####Assignment Answers:
+
+The four R scripts named plot1/2/3/4 can be run in R, to create the corresponding output files, the pngs named plot1/2/3/4.
+
+Below is a copy of the original README file, where information on both the data set and the course assignment is detailed.
+
+####The Original README File:
+
 ## Introduction
 
 This assignment uses data from
@@ -111,4 +121,3 @@ The four plots that you will need to construct are shown below.
 ### Plot 4
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
-
